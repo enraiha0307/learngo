@@ -24,9 +24,16 @@ package main
 // ?
 // ?
 // ?
+import (
+	f "fmt"
+	g "fmt"
+	h "fmt"
+)
 
 func main() {
-	// ?
+	f.Println("hello")
+	g.Println("hey")
+	h.Println("hi")
 	// ?
 	// ?
 }
