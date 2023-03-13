@@ -6,3 +6,12 @@
 ## HINT
 
 You should use correct `go doc` tools
+
+## Solution
+
+```bash
+$ go doc runtime NumCPU
+
+$ go doc -src runtime NumCPU
+
+```
